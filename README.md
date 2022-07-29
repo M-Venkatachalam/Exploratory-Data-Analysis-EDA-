@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-EDA-
 
-We have been given a set of tasks in the file Machine Learning using Python - Question Set1. There are two tasks mentioned. 
+We have been given a set of tasks in the file Problem Statement. There are two tasks mentioned. Refer the Problem statement.
 
 # Task 1:
   Machine Learning 
